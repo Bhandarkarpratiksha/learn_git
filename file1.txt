@@ -2,3 +2,5 @@ my first file.
 make laravel code
 new branch feature/01
 preapre for laravel interview
+
+statrt git mearge i want to check if the changes in main are meged with d\feature branch or not.
